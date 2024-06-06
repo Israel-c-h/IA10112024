@@ -216,3 +216,5 @@ print("Probabilidades predichas:", predicted_class)
 En la salida del código imprime a que clase predijo que pertenece la foto, el número correspondiente a esa clase, las probabilidades de todas las clases y por ultimo pinta la foto que se estaba utilizando.
 
 Tambien modifique algunas partes del código que eran necesarias debido a la versión de las librerías que se utilizaron cuando se creo el archivo y las que se utilizaron a la hora de crear este proyecto ya que no eran la misma versión y ocasionaban algún conflicto. 
+
+Agregue el archivo __.keras__ que resultó del entrenamiento. 
