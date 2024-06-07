@@ -218,3 +218,5 @@ En la salida del código imprime a que clase predijo que pertenece la foto, el n
 Tambien modifique algunas partes del código que eran necesarias debido a la versión de las librerías que se utilizaron cuando se creo el archivo y las que se utilizaron a la hora de crear este proyecto ya que no eran la misma versión y ocasionaban algún conflicto. 
 
 Agregue el archivo __.keras__ que resultó del entrenamiento. 
+
+[Link](https://drive.google.com/drive/folders/1VTQRic5mL-CcavGaRG5k9LiD--y0BSbd?usp=drive_link) de la carpeta de Drive que contiene el .xml resultante del entrenamiento.
