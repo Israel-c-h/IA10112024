@@ -201,6 +201,6 @@ toy = WaldoClassif.detectMultiScale(
 ~~~
 Yo al momento de realizar iba moviendo scaleFactor, minNeighbors y minSize, es necesario ir probando varias combinaciones con las 3 variables, pondré un ejemplo de detección de wally y la combinación de variables que use en ese caso:
 
-![Ejemplo](ejemplo.png)
+![Ejemplo](Ejemplo.png)
 
 [Link](https://drive.google.com/drive/folders/1Wa-xM8I4SPWOjA7cmB2fMzPxyUnIIP6e?usp=drive_link) de la carpeta en Drive que contiene el dataSet y lo resultante del entrenamiento
