@@ -203,4 +203,4 @@ Yo al momento de realizar iba moviendo scaleFactor, minNeighbors y minSize, es n
 
 ![Ejemplo](Ejemplo.png)
 
-[Link](https://drive.google.com/drive/folders/1Wa-xM8I4SPWOjA7cmB2fMzPxyUnIIP6e?usp=drive_link) de la carpeta en Drive que contiene el dataSet y lo resultante del entrenamiento
+[Link](https://drive.google.com/drive/folders/1Wa-xM8I4SPWOjA7cmB2fMzPxyUnIIP6e?usp=sharing) de la carpeta en Drive que contiene el dataSet y lo resultante del entrenamiento
