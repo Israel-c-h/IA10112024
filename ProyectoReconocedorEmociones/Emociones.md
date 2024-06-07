@@ -213,4 +213,4 @@ A la hora de detectar un rostro pintara un rectangulo alrededor del rostro, pued
 
 Por ultimo procedere a adjuntar el __.xml__ que generé cuando entrene mi modelo en una carpeta de Drive.
 
-[Link](https://drive.google.com/drive/folders/1VTQRic5mL-CcavGaRG5k9LiD--y0BSbd?usp=drive_link) de la carpeta de Drive que contiene el .xml resultante del entrenamiento.
+[Link](https://drive.google.com/drive/folders/1VTQRic5mL-CcavGaRG5k9LiD--y0BSbd?usp=sharing) de la carpeta de Drive que contiene el .xml resultante del entrenamiento.
