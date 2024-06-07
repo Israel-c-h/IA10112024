@@ -219,4 +219,3 @@ Tambien modifique algunas partes del código que eran necesarias debido a la ver
 
 Agregue el archivo __.keras__ que resultó del entrenamiento. 
 
-[Link](https://drive.google.com/drive/folders/1VTQRic5mL-CcavGaRG5k9LiD--y0BSbd?usp=drive_link) de la carpeta de Drive que contiene el .xml resultante del entrenamiento.
