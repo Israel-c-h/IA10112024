@@ -211,4 +211,6 @@ A la hora de detectar un rostro pintara un rectangulo alrededor del rostro, pued
 - Verde: Significa que el modelo entrenado logró reconocer algún tipo de emoción.
 - Rojo: EL modelo no logró detectar ningún tipo de emoción.
 
-Por ultimo procedere a adjuntar el __.xml__ que generé cuando entrene mi modelo en una carpeta anterior a este documento.
+Por ultimo procedere a adjuntar el __.xml__ que generé cuando entrene mi modelo en una carpeta de Drive.
+
+[Link](https://drive.google.com/drive/folders/1VTQRic5mL-CcavGaRG5k9LiD--y0BSbd?usp=drive_link) de la carpeta de Drive que contiene el .xml resultante del entrenamiento.
